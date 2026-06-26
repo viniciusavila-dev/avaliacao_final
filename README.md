@@ -1,8 +1,5 @@
 # Avaliação Final - Flutter
 
-## Sobre
-
-Este projeto foi desenvolvido como parte da Avaliação Final da disciplina de Flutter.
 
 O aplicativo possui:
 
