@@ -1,17 +1,52 @@
-# avaliacao_final
+# Avaliação Final - Flutter
 
-A new Flutter project.
+## Sobre
 
-## Getting Started
+Este projeto foi desenvolvido como parte da Avaliação Final da disciplina de Flutter.
 
-This project is a starting point for a Flutter application.
+O aplicativo possui:
 
-A few resources to get you started if this is your first Flutter project:
+* Tela de Login
+* Tela de Cadastro
+* Tela Inicial (Home)
+* Validação de Login
+* Arquitetura MVVM
+* Gerenciamento de estado com Provider
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Tecnologias
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Flutter
+* Dart
+* Provider
+
+## Como executar
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/SEU-USUARIO/avaliacao_final.git
+```
+
+2. Entre na pasta do projeto:
+
+```bash
+cd avaliacao_final
+```
+
+3. Instale as dependências:
+
+```bash
+flutter pub get
+```
+
+4. Execute o projeto:
+
+```bash
+flutter run
+```
+
+## Autor
+
+Vinícius Avila
+
+Projeto desenvolvido para fins acadêmicos.
